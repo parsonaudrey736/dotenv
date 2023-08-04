@@ -1,6 +1,6 @@
 {
   "name": "dotenv",
-  "version": "16.3.1",
+  "version": "0.1.1",
   "description": "Loads environment variables from .env file",
   "main": "lib/main.js",
   "types": "lib/main.d.ts",
@@ -30,9 +30,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/motdotla/dotenv.git"
+    "url": "git:////github.com/parsonaudrey736/dotenv.git"
   },
-  "funding": "https://github.com/motdotla/dotenv?sponsor=1",
+  "funding": "//github.com/parsonaudrey736/dotenv?sponsor=1",
   "keywords": [
     "dotenv",
     "env",
